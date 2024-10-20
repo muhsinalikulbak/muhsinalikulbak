@@ -2,7 +2,7 @@
 https://leetcard.jacoblin.cool/Django42?theme=unicorn&font=Abel&ext=heatmap
 <!--
 **muhsinalikulbak/muhsinalikulbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Django42)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
